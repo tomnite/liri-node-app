@@ -16,3 +16,9 @@ The following npm modules were used to build this app:
 Link to video of the app in action:
 
 https://drive.google.com/open?id=1VcOCK24DbHJUBcyRm-Zs09fUPUO6pfTC
+
+Liri app is linked in Basic and Bootstrap Portfolios:
+
+https://tomnite.github.io/Bootstrap-Portfolio/
+
+https://tomnite.github.io/Basic-Portfolio/
