@@ -142,7 +142,7 @@ function omdbData(movie) {
       );
 
       //adds text to log.txt
-      fs.appendFile("log.txt", "Title: " + body.Title + 
+      fs.appendFile("log.txt",  "\nTitle: " + body.Title + 
                                 "\nRelease Year: " + body.Year + 
                                 "\nIMdB Rating: " + body.imdbRating + 
                                 "\nRotten Tomatoes Rating: " + body.Ratings[1].Value + 
@@ -172,4 +172,4 @@ function doThing() {
     var txt = data.split(",");
     spotifySong(txt[1]);
   });
-}
+};

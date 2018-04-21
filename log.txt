@@ -5,15 +5,16 @@
 -----------------------
 @MotCootbamp: Giddyup cowboy! Created At: Sat Apr 21 01:41:53
 -----------------------
-@MotCootbamp: Hello World! #2 Created At: Sat Apr 21 01:41:35
------------------------
 @MotCootbamp: Mot's #1 Tweet - history in the making Created At: Sat Apr 21 01:38:30
+-----------------------
+@MotCootbamp: Hello World! #2 Created At: Sat Apr 21 01:41:35
 -----------------------
  Ace of Base
  The Sign
  https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=24565049d012466389e81f5ce6c5c6df
  The Sign (US Album) [Remastered]
------------------------Title: Mr. Nobody
+-----------------------
+Title: Mr. Nobody
 Release Year: 2009
 IMdB Rating: 7.9
 Rotten Tomatoes Rating: 66%
@@ -30,3 +31,16 @@ It's on Netflix!
  https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=24565049d012466389e81f5ce6c5c6df
  The Hits--Chapter One
 -----------------------
+ The Style Council
+ My Ever Changing Moods
+ null
+ Cafe Bleu
+-----------------------
+Title: Absolute Beginners
+Release Year: 1986
+IMdB Rating: 5.6
+Rotten Tomatoes Rating: 75%
+Country: UK
+Language: English
+Plot: In 1958 London a young photographer seeks media stardom to keep the love of a beautiful, aspiring fashion designer.
+Actors: Patsy Kensit, Eddie O'Connell, David Bowie, James Fox
